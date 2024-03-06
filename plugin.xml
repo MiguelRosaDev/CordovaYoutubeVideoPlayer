@@ -77,7 +77,8 @@
                 <config>
                     <source url="https://github.com/CocoaPods/Specs.git"/>
                 </config>
-                <pods use-frameworks="true">
+                <!--<pods use-frameworks="true">-->
+                <pods>
                     <pod name="XCDYouTubeKit" spec="~> 2.8.1"/>
                 </pods>
             </podspec>
