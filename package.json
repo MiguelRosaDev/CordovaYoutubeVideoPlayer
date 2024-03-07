@@ -4,7 +4,8 @@
   "description": "**Play Youtube Videos in a native Video Player on Android &amp; iOS.**",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cordova build --buildConfig=build.json"
   },
   "repository": {
     "type": "git",
