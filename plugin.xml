@@ -71,9 +71,10 @@
                     <param name="ios-package" value="YoutubeVideoPlayer"/>
                 </feature>
             </config-file>
-
+            
+           <!--
             <framework src="XCDYouTubeKit" type="podspec" spec="~> 2.8.1" /> 
-            <!--
+            
             <podspec>
                 <config>
                     <source url="https://github.com/CocoaPods/Specs.git"/>
